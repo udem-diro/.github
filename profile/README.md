@@ -8,18 +8,9 @@ Nous y regroupons divers projets, sites web, documents et ressources développé
 
 > Pour en savoir plus : [diro.umontreal.ca](https://diro.umontreal.ca)
 
-Le DIRO est l’un des plus grands départements universitaires d’informatique au Canada. Il couvre un large éventail de domaines, incluant :
-
-- Génie logiciel et développement d'applications
-- Intelligence artificielle et apprentissage automatique
-- Théorie de l'informatique et langages de programmation
-- Recherche opérationnelle et optimisation
-- Interaction humain-machine
-- Informatique quantique, bioinformatique, etc.
-
 ### 🧪 Laboratoires du DIRO
 
-Le département héberge également plusieurs **laboratoires, centres, groupes et chaires de recherche** actifs dans des domaines de pointe.  
+Le département héberge plusieurs **laboratoires, centres, groupes et chaires de recherche** actifs dans des domaines de pointe.  
 🔗 [Groupes et laboratoires du DIRO](https://diro.umontreal.ca/recherche/centre-groupes-chaires-et-laboratoires/).
 Plusieurs laboratoires et groupes de recherche du DIRO maintiennent des dépôts GitHub publics :
 
